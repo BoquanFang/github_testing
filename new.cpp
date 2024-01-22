@@ -3,6 +3,7 @@
 
 void print_function() {
     std::cout << "New Print!" << std::endl;
+    std::cout << "Fine Print!" << std::endl;
 }
  
 int main() {
