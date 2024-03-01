@@ -11,5 +11,6 @@ int main() {
     std::cout << "Hello World!" << std::endl;
     std::cout << "Hello World! Another Time!" << std::endl;
     std::cout << "Hello World! MERGE ONE!" << std::endl;
+    std::cout << "Hello World! MERGE TWO!" << std::endl;
     return 0;
 }
